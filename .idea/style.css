@@ -101,7 +101,7 @@ header{
     transition: height 0.5s ease;
 }
 
-.wrapper .active {
+.wrapper.active {
     height: 520px;
 }
 
