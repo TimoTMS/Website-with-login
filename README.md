@@ -37,8 +37,6 @@ webseite/
 
 ##  Vorschau
 
-*(Hier kannst du später einen Screenshot deines Projekts einfügen, z. B.)*
-
 ![Website Preview](images/Preview.png)
 
 ---
@@ -117,4 +115,5 @@ Falls du Ideen, Fehler oder Verbesserungsvorschläge hast, öffne einfach ein Is
 
 ---
 
-**Erstellt mit ❤️ von **Timo**
+Erstellt mit ❤️ von **Timo**
+
