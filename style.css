@@ -142,6 +142,7 @@ header {
     font-size: 1.5em;
     cursor: pointer;
     color: #000;
+    z-index: 10;
 }
 
 /* Input */
